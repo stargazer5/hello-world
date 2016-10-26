@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-We are star stuff.
+We are star stuff...
